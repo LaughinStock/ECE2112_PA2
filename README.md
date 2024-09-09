@@ -40,6 +40,7 @@ B. Divisible by 3 problem
 
    For this problem I utilized the np.arrange, "n ** 2", and the modulo operator "%" to solve the 
    problem. I also organized the created array using numpy's .reshape function.
+   
    ![image](https://github.com/user-attachments/assets/4961bccc-ab07-4092-84d1-0f16d300e2a4)
 
 
