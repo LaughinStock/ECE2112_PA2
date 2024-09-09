@@ -12,6 +12,7 @@ logical, shape manipulation, sorting, selecting I/O, statistical operations and 
 Problem code:
 
 A. Normalization Problem
+   
    For this problem, we are tasked with making a code that uses normalization to organize data.
    Normalization is the process of organizing data in a database and it is one of the most basic
    preprocessing techniques in data analytics.
@@ -38,6 +39,7 @@ A. Normalization Problem
   
    
 B. Divisible by 3 problem
+   
    For this problem, we are tasked with creating a 10x10 array that features values from 1 to 100.
    Then squaring the first 100 terms using "n ** 2" and lastly checks the elements that are 
    divisible by 3.
