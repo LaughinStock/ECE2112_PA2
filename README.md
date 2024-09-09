@@ -10,6 +10,7 @@ Including an assortment of routines for fast operations on arrays, including mat
 logical, shape manipulation, sorting, selecting I/O, statistical operations and much more.
 
 Problem code:
+
 A. Normalization Problem
    For this problem, we are tasked with making a code that uses normalization to organize data.
    Normalization is the process of organizing data in a database and it is one of the most basic
