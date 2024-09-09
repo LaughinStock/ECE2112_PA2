@@ -24,12 +24,12 @@ A. Normalization Problem
       For Z-score normalization, the standardized data can have positive and negative values.
       The resulting values represent how many standard deviations away a particular data point
       is from the mean.
-   ![image](https://github.com/user-attachments/assets/6749cea2-bf8d-4fc1-a8ee-543808e25bc6)
+      ![image](https://github.com/user-attachments/assets/6749cea2-bf8d-4fc1-a8ee-543808e25bc6)
 
-   2. Using X_min and X_max (Additional Code)
+   3. Using X_min and X_max (Additional Code)
       For min-max scaling, the values are fixed from 0 to 1 and this is useful when you are
       limiting the data values from zero to one.
-   ![image](https://github.com/user-attachments/assets/a9d61577-ed9f-4b11-85ca-f8ffcd921c5c)
+      ![image](https://github.com/user-attachments/assets/a9d61577-ed9f-4b11-85ca-f8ffcd921c5c)
   
    
 B. Divisible by 3 problem
