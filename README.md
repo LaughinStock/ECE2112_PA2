@@ -12,7 +12,7 @@ logical, shape manipulation, sorting, selecting I/O, statistical operations and 
 Problem code:
 
 A. Normalization Problem
-   
+
    For this problem, we are tasked with making a code that uses normalization to organize data.
    Normalization is the process of organizing data in a database and it is one of the most basic
    preprocessing techniques in data analytics.
